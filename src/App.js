@@ -12,6 +12,8 @@ Un hook es un codigo altamente reutilizable que basicamente lo podemos poner en 
 y useState es un Hook lo usamos para actualizar una variable y que react actualize la lista
 
 useEffect va a correr codigo basado en efecto o cualquier cambio ocurrido en un estado
+
+hola
 */
 
 export default function App() {

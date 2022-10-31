@@ -8,7 +8,7 @@ no necesita continuar una accion, etc. Toda la info proviene de los props
 const Pokemon = (props) => {
     const {pokemon} = props;
     return(
-        <div className ="pokemon-card" >
+        <div className ="pokemon-card ">
             <div className = "pokemon-img-container">
                 <img 
                 src = {pokemon.sprites.versions["generation-v"]["black-white"].front_default} 
